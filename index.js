@@ -16,7 +16,7 @@ function getWeatherDetails(city = "") {
 }
 
 const tools = {
-    "getWeatherDetails": getWeatherDetails,
+    "getWeatherDetails": getWeatherDetails
 }
 
 const SYSTEM_PROMPT = `
